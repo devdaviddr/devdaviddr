@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://danielruffolo.net"><img src="https://img.shields.io/badge/Blog-danielruffolo.net-F38020?style=for-the-badge&logo=hugo&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/daniel-ruffolo"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-ruffolo-9a2904151/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:devdaviddr@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
