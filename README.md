@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
 
-👋 G'day! I'm **Daniel Ruffolo**, a Senior Engineer with 8 years in the trenches of IT. I build cloud platforms and automation that quietly do the boring work so people don't have to — from healthcare systems where the details actually matter, to a homelab that's equal parts playground and production. These days I'm knee-deep in AI agents and shipping things at the edge ⚡ — wiring services together until they hum. When I step away from the screen you'll find me chasing a good coffee ☕ and tinkering with whatever's blinking in the rack.
+I'm **Daniel Ruffolo**, a Senior Engineer with 8 years in IT, focused on cloud platforms, automation, and AI agents. I build systems that take the repetitive work off people's plates — from healthcare applications where accuracy is critical, to self-hosted infrastructure I use as a testing ground for new ideas.
 
 <p align="center">
   <a href="https://danielruffolo.net"><img src="https://img.shields.io/badge/Blog-danielruffolo.net-F38020?style=for-the-badge&logo=hugo&logoColor=white"/></a>
@@ -27,12 +27,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdaviddr&show_icons=true&count_private=true&hide_border=true&title_color=F38020&icon_color=F38020&text_color=9f9f9f&bg_color=0D1117" alt="Daniel's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaviddr&layout=compact&hide_border=true&title_color=F38020&text_color=9f9f9f&bg_color=0D1117" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=devdaviddr&hide_border=true&background=0D1117&ring=F38020&fire=F38020&currStreakLabel=F38020&sideNums=F38020&currStreakNum=9f9f9f&sideLabels=9f9f9f&dates=6e6e6e" alt="GitHub streak" height="165"/>
 </p>
-
-<!-- profile -->
