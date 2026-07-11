@@ -27,5 +27,5 @@ I'm **Daniel Ruffolo**, a Senior Engineer with 8 years in IT, focused on cloud p
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devdaviddr&hide_border=true&background=FFFFFF&ring=F38020&fire=F38020&currStreakLabel=F38020&sideNums=F38020&currStreakNum=333333&sideLabels=555555&dates=888888" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=devdaviddr&hide_border=true&background=FFFFFF&ring=F38020&fire=F38020&currStreakLabel=F38020&sideNums=F38020&currStreakNum=333333&sideLabels=555555&dates=888888&v=1" alt="GitHub streak" height="165"/>
 </p>
