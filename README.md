@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Senior%20Engineer-8%2B%20years%20in%20IT-F38020?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%Product%%20Engineer-8%2B%20years%20in%20IT-F38020?style=for-the-badge&logo=rocket&logoColor=white"/>
 </p>
 
 <p align="center">
