@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%Product%%20Engineer-8%2B%20years%20in%20IT-F38020?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Product%20Engineer-8%2B%20years%20in%20IT-F38020?style=for-the-badge&logo=rocket&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
 
-I'm **Daniel Ruffolo**, a Senior Engineer with 8 years in IT, focused on cloud platforms, automation, and AI agents. I build systems that take the repetitive work off people's plates — from healthcare applications where accuracy is critical, to self-hosted infrastructure I use as a testing ground for new ideas.
+I'm **Daniel Ruffolo**, an AI Product Engineer with 8 years in IT, focused on cloud platforms, automation, and AI agents. I build systems that take the repetitive work off people's plates — from healthcare applications where accuracy is critical, to self-hosted infrastructure I use as a testing ground for new ideas.
 
 <p align="center">
   <a href="https://danielruffolo.net"><img src="https://img.shields.io/badge/Blog-danielruffolo.net-F38020?style=for-the-badge&logo=hugo&logoColor=white"/></a>
