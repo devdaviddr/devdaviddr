@@ -26,6 +26,24 @@ I'm **Daniel Ruffolo**, an AI Product Engineer with 8 years in IT, focused on cl
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devdaviddr&hide_border=true&background=FFFFFF&ring=F38020&fire=F38020&currStreakLabel=F38020&sideNums=F38020&currStreakNum=333333&sideLabels=555555&dates=888888&v=1" alt="GitHub streak" height="165"/>
-</p>
+## Projects
+
+### 🏥 Healthcare AI
+- **[WardBeat](https://github.com/devdaviddr/wardbeat)**: a clinical-operations copilot for hospital ward flow. Cited discharge barriers, a grounded copilot and next actions a human approves. Next.js + FastAPI + NVIDIA NIM + pgvector.
+- **[AI Patient Flow Orchestrator](https://github.com/devdaviddr/ai-patient-flow-orchestrator)**: a multi-agent perceive → reason → plan → act loop over a simulated hospital, with a human approval gate on every action.
+
+### 🤖 Agents & local AI
+- **[itsaagent-cli](https://github.com/devdaviddr/itsaagent-cli)**: a local-first ReAct agent CLI on Ollama. No cloud, no API keys.
+- **[trello-mcp-service](https://github.com/devdaviddr/trello-mcp-service)**: a Trello MCP service with local Ollama and Telegram integration.
+- **[personal-planner-agent](https://github.com/devdaviddr/personal-planner-agent)**: a personal-planner agent in ~300 lines of plain Python (Ollama + SQLite). Companion code for a tutorial.
+- **[ai-resources](https://github.com/devdaviddr/ai-resources)**: agents and skills for Claude and OpenCode.
+
+### 🧱 Starter kits
+- **[nextjs-fullstack-boilerplate](https://github.com/devdaviddr/nextjs-fullstack-boilerplate)**: Next.js 16, Auth.js v5, Drizzle + Postgres, PWA, Docker, CI.
+- **[nextjs-rag-boilerplate](https://github.com/devdaviddr/nextjs-rag-boilerplate)**: chat with your PDFs, with cited answers. Built on the template above.
+- **[cloudflare-hono-d1-boilerplate](https://github.com/devdaviddr/cloudflare-hono-d1-boilerplate)**: React on Pages, Hono on Workers, D1, Firebase Auth.
+- **[react-express-firebase-boilerplate](https://github.com/devdaviddr/react-express-firebase-boilerplate)**: React + Express monorepo with Firebase Auth and Postgres.
+
+### 📚 Learning
+- **[rabbitmq-tutorial](https://github.com/devdaviddr/rabbitmq-tutorial)**: work-queue patterns with RabbitMQ, Python and Docker.
+- **[chatbot](https://github.com/devdaviddr/chatbot)**: a Telegram Q&A and reminders bot on a local LLM.
